@@ -17,6 +17,9 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.ps1" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.xml" },
+  { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
-  { import = "astrocommunity.media.presence-nvim" },
+  -- { import = "astrocommunity.media.presence-nvim" },
+  { import = "astrocommunity.media.drop-nvim" },
 }
