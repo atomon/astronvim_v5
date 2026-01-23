@@ -22,4 +22,9 @@ return {
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   -- { import = "astrocommunity.media.presence-nvim" },
   { import = "astrocommunity.media.drop-nvim" },
+  { import = "astrocommunity.search.grug-far-nvim" },
+  { import = "astrocommunity.file-explorer.oil-nvim" },
+  { import = "astrocommunity.editing-support.text-case-nvim" },
+  { import = "astrocommunity.completion.codeium-vim" },
+
 }
