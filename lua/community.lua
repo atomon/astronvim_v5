@@ -26,5 +26,4 @@ return {
   { import = "astrocommunity.file-explorer.oil-nvim" },
   { import = "astrocommunity.editing-support.text-case-nvim" },
   { import = "astrocommunity.completion.codeium-vim" },
-
 }
